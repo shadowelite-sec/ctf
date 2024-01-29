@@ -1,3 +1,7 @@
 [submodule "themes/cactus"]
 	path = themes/cactus
 	url = https://github.com/shadowelite-sec/hexo-theme-cactus
+
+[submodule "themes/3-hexo"]
+	path = themes/3-hexo
+	url = https://github.com/shadowelite-sec/hexo-theme-3-hexo
