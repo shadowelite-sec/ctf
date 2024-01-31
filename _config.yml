@@ -111,7 +111,7 @@ deploy:
 
 # comments
 giscus:
-  enable: true
+  enable: false
   repo: ctf
   repo_id: shadowelite-sec
   category: # Github discussion category
