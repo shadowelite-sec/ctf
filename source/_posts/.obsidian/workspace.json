@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "f10cce24767c1da6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a8d9430b53e4f7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d06a97fc0c8cfe59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PICO-CTF-OBEDIENT-CAT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f00ea06ed4b9747",
+    "type": "split",
+    "children": [
+      {
+        "id": "973b09a8dcba54c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18acc34b7743b328",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac9530f740618677",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa523f1aed03cd27",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f6e13dd33dcc57d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee8df0078b5bea54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "717499fa61f6f614",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PICO-CTF-OBEDIENT-CAT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8fd56d59846aa081",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PICO-CTF-OBEDIENT-CAT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc89c3c259f04ca1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ccb972b5cc8eb29d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PICO-CTF-OBEDIENT-CAT.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "d06a97fc0c8cfe59",
+  "lastOpenFiles": [
+    "PICO-CTF-PYTHON-WRANGLING.md",
+    "PICO-CTF-OBEDIENT-CAT.md",
+    "hello-world.md",
+    "CTFLEARN-FORENSICS-101.md",
+    "a.md",
+    "CTFLEARN-FORENSICS-101/image-20240201005342824.png",
+    "CTFLEARN-FORENSICS-101/image-20240201005315505.png",
+    "CTFLEARN-FORENSICS-101",
+    "Untitled",
+    "PICO-CTF-PYTHON-WRANGLING/Recording 20240201003824.webm",
+    "PICO-CTF-PYTHON-WRANGLING",
+    "PICO-CTF-PYTHON-WRANGLING/image-20240201003432740.png",
+    "rust-hello.md",
+    "wut.md",
+    "rust-hello/image-20240201003322021.png",
+    "wut/image-20240201003337770.png",
+    "wut",
+    "rust-hello/image-20240201003246980.png",
+    "rust-hello/$(filename)/image-20240201003224057.png",
+    "rust-hello/$(filename)",
+    "rust-hello/Pasted image 20240201001319.png",
+    "Pasted image 20240201002525.png",
+    "Pasted image 20240201002522.png",
+    "rust-hello",
+    "img"
+  ]
+}

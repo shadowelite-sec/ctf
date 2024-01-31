@@ -1,11 +1,14 @@
 ---
 title: PICO CTF | PYTHON WRANGLING
-date: 2024-01-29 16:42:45
+date: 2023-02-28
 tags:
+  - CTF
+  - pico
+  - crypto
 ---
-## Cracking challange
+## Cracking challenge
 
-Download All three Files Provided in the challange and copy into one directory
+Download All three Files Provided in the challenge and copy into one directory
 
 to run a python script `python <file>.py`
 

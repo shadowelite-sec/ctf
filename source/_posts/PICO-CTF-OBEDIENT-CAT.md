@@ -1,10 +1,13 @@
 ---
 title: PICO CTF | OBEDIENT CAT
-date: 2024-01-29 16:40:13
+date: 2023-02-28
 tags:
+  - CTF
+  - pico
+  - cat
 ---
 
-its is a very very easy challange <!--more-->  
+its is a very very easy challenge <!--more-->  
 
 ## STEP 1
 
