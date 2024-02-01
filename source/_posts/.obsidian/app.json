@@ -1,5 +1,13 @@
 {
-  "attachmentFolderPath": "./PICO-CTF-OBEDIENT-CAT",
+  "attachmentFolderPath": "./REVERSE-POLARITY",
   "newLinkFormat": "absolute",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "promptDelete": false
 }
