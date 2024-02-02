@@ -22,8 +22,8 @@ so i use cyberchef to decode
 
 add recipe `from hex`
 
-![](CHARACTER-ENCODING/image-20240201105626812.png)
+![](CTFLEARN-CHARACTER-ENCODING/image-20240201105626812.png)
 
 add we got the flag : `ABCTF{45C11_15_U53FUL}`
 
-![](CHARACTER-ENCODING/image-20240201105754140.png)
+![](CTFLEARN-CHARACTER-ENCODING/image-20240201105754140.png)

@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "./REVERSE-POLARITY",
+  "attachmentFolderPath": "./SHAASTRA-CTF-2024-FORENSICS-Q13",
   "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
   "pdfExportSettings": {
@@ -9,5 +9,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

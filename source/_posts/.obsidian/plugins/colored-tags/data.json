@@ -15,7 +15,11 @@
     "CTF": 3,
     "forensic": 4,
     "pico": 5,
-    "cat": 6
+    "cat": 6,
+    "web": 7,
+    "osint": 8,
+    "ctftime": 9,
+    "SHAASTRA-CTF": 10
   },
   "_version": 3
 }

@@ -16,8 +16,8 @@ It's really easy the text its encoded in binary (0s and 1s)
 
 using cyberchef we can easily decode
 
-![](REVERSE-POLARITY/image-20240201201836311.png)
+![](CTFLEARN-REVERSE-POLARITY/image-20240201201836311.png)
 
 the flag is `CTF{Bit_Flippin}`
 
-![](REVERSE-POLARITY/image-20240201202309011.png)
+![](CTFLEARN-REVERSE-POLARITY/image-20240201202309011.png)

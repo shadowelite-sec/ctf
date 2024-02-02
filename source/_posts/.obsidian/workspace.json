@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "344954a5bed4bc0b",
+        "id": "8d8de5e26c1c5ea7",
         "type": "tabs",
         "children": [
           {
-            "id": "4405bf275074606c",
+            "id": "f3ad204555a315c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REVERSE-POLARITY.md",
+                "file": "SHAASTRA-CTF-2024-FORENSICS-Q13.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#forensic",
+                "query": "tag:#ctftime",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REVERSE-POLARITY.md",
+                "file": "SHAASTRA-CTF-2024-FORENSICS-Q13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REVERSE-POLARITY.md",
+                "file": "SHAASTRA-CTF-2024-FORENSICS-Q13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REVERSE-POLARITY.md"
+                "file": "SHAASTRA-CTF-2024-FORENSICS-Q13.md"
               }
             }
           }
@@ -149,34 +149,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4405bf275074606c",
+  "active": "f3ad204555a315c6",
   "lastOpenFiles": [
-    "CTFLEARN-FORENSICS-101.md",
-    "REVERSE-POLARITY.md",
-    "REVERSE-POLARITY/image-20240201202309011.png",
-    "REVERSE-POLARITY/image-20240201201836311.png",
-    "REVERSE-POLARITY",
+    "SHAASTRA-CTF-2024-FORENSICS-Q13.md",
+    "CTFLEAN-WHERE-CAN-MY-ROBOT-GO.md",
+    "hello-world.md",
     "PICO-CTF-OBEDIENT-CAT.md",
     "PICO-CTF-PYTHON-WRANGLING.md",
-    "hello-world.md",
-    "CHARACTER-ENCODING.md",
+    "SHAASTRA-CTF-2024-FORENSICS-Q13/image-20240202173328370.png",
+    "SHAASTRA-CTF-2024-FORENSICS-Q13/image-20240202174039411.png",
+    "SHAASTRA-CTF-2024-FORENSICS-Q13/image-20240202175717663.png",
+    "SHAASTRA-CTF-2024-FORENSICS-Q13/image-20240202175531610.png",
+    "SHAASTRA-CTF-2024-FORENSICS-Q13/image-20240202180428973.png",
+    "SHAASTRA-CTF-2024-FORENSICS-Q13/image-20240202180842810.png",
+    "SHAASTRA-CTF-2024-FORENSICS-Q13/image-20240202174709122.png",
+    "SHAASTRA-CTF-2024-FORENSICS-Q13/image-20240202174851789.png",
+    "SHAASTRA-CTF-2024-FORENSICS-Q13/image-20240202173919937.png",
+    "SHAASTRA-CTF-2024-FORENSICS-Q13/image-20240202155028787.png",
+    "SHAASTRA-CTF-2024-FORENSICS-Q13",
+    "CTFLEARN-MORSE-CODE.md",
+    "CTFLEARN-REVERSE-POLARITY.md",
+    "CTFLEARN-FORENSICS-101.md",
+    "CTFLEARN-CHARACTER-ENCODING.md",
+    "CTFLEARN-BASE-2-2-THE-6.md",
+    "CTFLEARN-WHERE-CAN-MY-ROBOT-GO?",
+    "CTFLEARN-MORSE-CODE",
+    "CTFLEARN-BASE-2-2-THE-6",
+    "CTFLEARN-REVERSE-POLARITY",
     "0002-02-01.md",
-    "Reverse Polarity/image-20240201201112665.png",
     "Reverse Polarity",
     "Untitled.canvas",
-    "Untitled.png",
     "CHARACTER-ENCODING/Drawing 2024-02-01 13.33.17.excalidraw.md",
     "\"${filename}\"/Drawing 2024-02-01 13.32.30.excalidraw.md",
     "\"${filename}\"",
-    "Untitled/image-20240201130127204.png",
-    "Untitled",
     "\"${filename}\"/Drawing 2024-02-01 13.00.14.excalidraw.md",
     "CTFLEARN-FORENSICS-101/Untitled",
-    "CTFLEARN-FORENSICS-101/Untitled/IMG-20240201125938819.png",
-    "CHARACTER-ENCODING/image-20240201105754140.png",
-    "CHARACTER-ENCODING/image-20240201105626812.png",
-    "CTFLEARN-FORENSICS-101/image-20240201005315505.png",
-    "CTFLEARN-FORENSICS-101/image-20240201005342824.png",
     "\"${filename}\"/Drawing 2024-02-01 12.27.52.excalidraw.md",
     "${filename}/Drawing 2024-02-01 12.25.40.excalidraw.md",
     "hello-world",
@@ -188,12 +195,7 @@
     "${filename}/Drawing 2024-02-01 12.17.55.excalidraw.md",
     "${filename}/Drawing 2024-02-01 12.15.26.excalidraw.md",
     "$(filename)/Drawing 2024-02-01 12.14.26.excalidraw.md",
-    "$(filename)",
     "Excalidraw/Drawing 2024-02-01 12.11.50.excalidraw.md",
-    "Excalidraw",
-    "2024-02-01.md",
-    "CHARACTER-ENCODING",
-    "rust-hello.md",
-    "wut.md"
+    "2024-02-01.md"
   ]
 }
