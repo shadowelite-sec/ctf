@@ -22,7 +22,7 @@
 <meta property="og:image" content="http://example.com/2024/02/02/SHAASTRA-CTF-2024-FORENSICS-Q13/image-20240202180842810.png">
 <meta property="og:image" content="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJnNjZscWNjb3dvMnBoYWgzdWNlamM2dnFkbnp6azE2MHNmdDc2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4EpkVLqUj8BI7OV2/giphy.gif">
 <meta property="article:published_time" content="2024-02-01T18:30:00.000Z">
-<meta property="article:modified_time" content="2024-02-02T12:49:17.558Z">
+<meta property="article:modified_time" content="2024-02-02T12:50:41.003Z">
 <meta property="article:author" content="ALAN">
 <meta property="article:tag" content="CTF">
 <meta property="article:tag" content="forensic">
@@ -127,7 +127,7 @@
     
     
       <div id="toc">
-        <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#challenge"><span class="toc-number">1.</span> <span class="toc-text">challenge</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#solution"><span class="toc-number">2.</span> <span class="toc-text">solution</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#step-1"><span class="toc-number">2.1.</span> <span class="toc-text">step 1</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#step-2"><span class="toc-number">2.1.1.</span> <span class="toc-text">step 2</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#step-3"><span class="toc-number">2.1.2.</span> <span class="toc-text">step 3</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#step-4"><span class="toc-number">2.1.3.</span> <span class="toc-text">step 4</span></a></li></ol></li></ol></li></ol>
+        <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#challenge"><span class="toc-number">1.</span> <span class="toc-text">challenge</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#solution"><span class="toc-number">2.</span> <span class="toc-text">solution</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#step-1"><span class="toc-number">2.1.</span> <span class="toc-text">step 1</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#step-2"><span class="toc-number">2.2.</span> <span class="toc-text">step 2</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#step-3"><span class="toc-number">2.3.</span> <span class="toc-text">step 3</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#step-4"><span class="toc-number">2.4.</span> <span class="toc-text">step 4</span></a></li></ol></li></ol>
       </div>
     
   </span>
@@ -187,7 +187,7 @@
 <blockquote>
 <p><code>ShaastraCTF&#123;H4pPy</code></p>
 </blockquote>
-<h3 id="step-2"><a href="#step-2" class="headerlink" title="step 2"></a>step 2</h3><p>now we have the first part of the flag</p>
+<h2 id="step-2"><a href="#step-2" class="headerlink" title="step 2"></a>step 2</h2><p>now we have the first part of the flag</p>
 <p>so i am going to fix the data of the <code>jpg</code> file </p>
 <p>open the file in any hex editor in this case i am using <code>ghex</code> </p>
 <p><img src="/2024/02/02/SHAASTRA-CTF-2024-FORENSICS-Q13/image-20240202174709122.png"></p>
@@ -206,7 +206,7 @@
 <blockquote>
 <p><code>_n3W</code></p>
 </blockquote>
-<h3 id="step-3"><a href="#step-3" class="headerlink" title="step 3"></a>step 3</h3><p>we got the first and second part of the flag </p>
+<h2 id="step-3"><a href="#step-3" class="headerlink" title="step 3"></a>step 3</h2><p>we got the first and second part of the flag </p>
 <p>now are moving on to the analysis of binary in this case i am using ELF binary because i am using Linux </p>
 <p>I run <code>strings</code> command in the binary </p>
 <p>by looking in to the strings i found the third and final part of the flag</p>
@@ -215,7 +215,7 @@
 <blockquote>
 <p>_Y34R!}</p>
 </blockquote>
-<h3 id="step-4"><a href="#step-4" class="headerlink" title="step 4"></a>step 4</h3><p>now we have to join all these  parts to one</p>
+<h2 id="step-4"><a href="#step-4" class="headerlink" title="step 4"></a>step 4</h2><p>now we have to join all these  parts to one</p>
 <blockquote>
 <p><code>ShaastraCTF&#123;H4pPy_n3W_Y34R!&#125;</code></p>
 </blockquote>
@@ -255,7 +255,7 @@
     
     
       <div id="toc-footer" style="display: none">
-        <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#challenge"><span class="toc-number">1.</span> <span class="toc-text">challenge</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#solution"><span class="toc-number">2.</span> <span class="toc-text">solution</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#step-1"><span class="toc-number">2.1.</span> <span class="toc-text">step 1</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#step-2"><span class="toc-number">2.1.1.</span> <span class="toc-text">step 2</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#step-3"><span class="toc-number">2.1.2.</span> <span class="toc-text">step 3</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#step-4"><span class="toc-number">2.1.3.</span> <span class="toc-text">step 4</span></a></li></ol></li></ol></li></ol>
+        <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#challenge"><span class="toc-number">1.</span> <span class="toc-text">challenge</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#solution"><span class="toc-number">2.</span> <span class="toc-text">solution</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#step-1"><span class="toc-number">2.1.</span> <span class="toc-text">step 1</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#step-2"><span class="toc-number">2.2.</span> <span class="toc-text">step 2</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#step-3"><span class="toc-number">2.3.</span> <span class="toc-text">step 3</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#step-4"><span class="toc-number">2.4.</span> <span class="toc-text">step 4</span></a></li></ol></li></ol>
       </div>
     
 
